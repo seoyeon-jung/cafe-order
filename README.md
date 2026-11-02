@@ -8,7 +8,6 @@
 ## 기술 스택
 - Java
 - Gradle 8.10 (Wrapper 포함)
-- JUnit 5
 
 ## 메뉴
 | 메뉴 | 가격 |
